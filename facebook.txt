@@ -2,3 +2,4 @@ login module
 name
 password
 email
+phone number
